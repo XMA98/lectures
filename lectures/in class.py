@@ -4,7 +4,7 @@ print(3 * 4)
 
 print("Python" + " " + "is" + " " + "fun!")
 
-name = "Bre"
+name = "Mac"
 print(f"Hello, {name}! How are you?")
 
 print(10 > 5)  # True
